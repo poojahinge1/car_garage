@@ -1,0 +1,34 @@
+
+.ani1{
+    background-image: url(./image/background/page-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+}
+.logo1{
+    text-align: center;
+}
+.logo2{
+    text-align: center;
+}
+.list0{
+    list-style-type: none;
+    justify-content: center;
+    padding: 20px;
+}
+.anu{
+    padding: 10px;
+}
+.poo{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: -20px;
+    z-index: 999;
+    position: relative;
+}
+.footer{
+    padding-top: 40px;
+}
